@@ -1,7 +1,7 @@
 import cProfile
 import logging
-import pstats
 import marshal
+import pstats
 from io import StringIO
 from threading import local
 
